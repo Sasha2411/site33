@@ -1,0 +1,72 @@
+header h1{text-transform: uppercase;
+    background-color: rgb(36, 238, 120);
+    color: rgb(11, 24, 19);
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h2{
+    background-color: rgb(0, 255, 170);
+    color: rgb(11, 24, 19);
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.img1{
+    text-align: center;
+    width: 700px;
+    height: 170px;
+    
+}
+main p{
+    background-color: rgb(173, 235, 224);
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+body  {
+  background: rgb(235, 238, 235);
+}
+
+footer p{
+    background-color: rgb(66, 221, 169);
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+     padding: 1px;
+}
+
+.img1{
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin:0 auto;
+}
+
+.img2{
+    text-align: center;
+    width: 700px;
+    height: 450px;
+    display: block;
+    margin:0 auto;
+}
+
+footer a{
+    color: rgb(11, 24, 19);
+    background-color: rgb(219, 196, 119);
+    border-radius: 10px;
+    padding: 2px;
+}
+.img3{
+    text-align: center;
+    width: 150px;
+    height: 200px;
+    display: block;
+    margin:0 auto;
+}
